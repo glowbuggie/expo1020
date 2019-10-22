@@ -69,7 +69,7 @@ The cost breakdown (so teams have an idea) will be coming soon.
 - We stick them on butcher paper as a backing so it's easier to set up and reuse.
 
 ### Information
-- [Folder]("/Signs Around Venue")
+- [Folder](/Signs%20Around%20Venue)
 - Some of these are for people to browse in areas without booths but with extra space. Like info on LiPig, Pepe, or Lennon Wall.
 - There are a lot of random signage needed for a venue, like where bathrooms are!
 - Warning signs for VR or uncomfortable triggers are included.
