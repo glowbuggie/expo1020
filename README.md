@@ -7,6 +7,14 @@
 This is the repository for all the expo materials, which was first presented at Berkeley on 20 Oct, 2019.
 The files and appropriate sources are posted here in order for it to be reused all over the world.
 
+### How to download
+
+If you are not familiar with git, or just want to download specific directories, use this tool:
+https://minhaskamal.github.io/DownGit/#/home
+and put in the URL of the directory you'd like (you can get that by click on the directory in GitHub and copying the URL).
+
+Otherwise, we appreciate it if you use git so we can see who is forking it and update this!!
+
 ### Pull requests are welcome! The following are especially helpful.
 - up-to-date information according to the latest developments
 - format updates for printing in different sizes
