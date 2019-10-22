@@ -1,3 +1,5 @@
+![Expo Program Guide Cover](/ProgramGuide/program_guide_front.jpg)
+
 # Materials for Hong Kong Expo
 ### 五大訴求，缺一不可。兄弟爬山，各自努力，遍地開花。
 ### 5 Demands, Not 1 Less
@@ -10,10 +12,18 @@ The files and appropriate sources are posted here in order for it to be reused a
 - format updates for printing in different sizes
 - different language translations
 
-![Expo Program Guide Cover](/ProgramGuide/program_guide_front.jpg)
+### Expo components
 
-![alt text][program_guide_cover]
-![alt text][program_guide_map]
+![Expo Program Guide Cover](/ProgramGuide/program_guide_map.jpg)
 
-[program_guide_cover]:"Program Guides/program_guide_front.jpg"[Expo Program Guide Cover]
-[program_guide_map]: "Program Guides/program_guide_inside.jpg"[Expo Program Guide Map]
+Our expo consists the following. Each will have its own folder for source materials and information. Feel free to use any part of it for your event, as we know the event space and format might be different!
+Our goal of the 1020 expo is to gather signatures, letters and postcards for US senators, in order to help push the HKHRDAct. We invite you to have a similar goal for your local event for a greater impact!
+
+1. Information booths
+2. Timeline of events
+3. Protest artwork exhibition
+4. Background movie playing + singing of anthem
+5. VR area
+6. Writing table***
+7. Lennon wall + paper cranes folding
+8. Hong Kong food (fish balls) + drinks 
