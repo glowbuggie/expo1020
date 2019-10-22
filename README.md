@@ -19,8 +19,7 @@ Otherwise, we appreciate it if you use git so we can see who is forking it and u
 - up-to-date information according to the latest developments
 - format updates for printing in different sizes
 - different language translations
-
-### Please install git-lfs if you plan to use git directly.
+- Please install git-lfs if you plan to use git directly.
 
 ## Expo components
 
