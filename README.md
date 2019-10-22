@@ -12,6 +12,8 @@ The files and appropriate sources are posted here in order for it to be reused a
 - format updates for printing in different sizes
 - different language translations
 
+### Please install git-lfs if you plan to use git directly.
+
 ## Expo components
 
 ![Expo Program Guide Cover](/Titles/program_guide_inside.jpg)
@@ -67,13 +69,13 @@ The cost breakdown (so teams have an idea) will be coming soon.
 - We stick them on butcher paper as a backing so it's easier to set up and reuse.
 
 ### Information
-- [Folder](/Signs Around Venue)
+- [Folder]("/Signs Around Venue")
 - Some of these are for people to browse in areas without booths but with extra space. Like info on LiPig, Pepe, or Lennon Wall.
 - There are a lot of random signage needed for a venue, like where bathrooms are!
 - Warning signs for VR or uncomfortable triggers are included.
 
 ### Background Movie
-- [Folder](/Background Videos)
+- [Folder]("/Background Videos") (NOTE: No videos have been uploaded currently)
 - If you have a projector and some wall space this provides good ambience and a space for people to rest.
 - Videos in the folder, youtube link [here](https://www.youtube.com/watch?v=1U-vwe3AB50)
 
