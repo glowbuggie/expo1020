@@ -7,10 +7,19 @@
 This is the repository for all the expo materials, which was first presented at Berkeley on 20 Oct, 2019.
 The files and appropriate sources are posted here in order for it to be reused all over the world.
 
+### How to download
+
+If you are not familiar with git, or just want to download specific directories, use this tool:
+https://minhaskamal.github.io/DownGit/#/home
+and put in the URL of the directory you'd like (you can get that by click on the directory in GitHub and copying the URL).
+
+Otherwise, we appreciate it if you use git so we can see who is forking it and update this!!
+
 ### Pull requests are welcome! The following are especially helpful.
 - up-to-date information according to the latest developments
 - format updates for printing in different sizes
 - different language translations
+- Please install git-lfs if you plan to use git directly.
 
 ## Expo components
 
@@ -67,13 +76,13 @@ The cost breakdown (so teams have an idea) will be coming soon.
 - We stick them on butcher paper as a backing so it's easier to set up and reuse.
 
 ### Information
-- [Folder](/Signs Around Venue)
+- [Folder](/Signs%20Around%20Venue)
 - Some of these are for people to browse in areas without booths but with extra space. Like info on LiPig, Pepe, or Lennon Wall.
 - There are a lot of random signage needed for a venue, like where bathrooms are!
 - Warning signs for VR or uncomfortable triggers are included.
 
 ### Background Movie
-- [Folder](/Background Videos)
+- [Folder](/Background%20Videos) (NOTE: No videos have been uploaded currently)
 - If you have a projector and some wall space this provides good ambience and a space for people to rest.
 - Videos in the folder, youtube link [here](https://www.youtube.com/watch?v=1U-vwe3AB50)
 
@@ -87,15 +96,15 @@ The cost breakdown (so teams have an idea) will be coming soon.
 - THIS IS POPULAR!!
 
 ### Writing Table
-- We put most of our [call to action](/Signs Around Venue/Call to Action) flyers here in the middle.
+- We put most of our [call to action](/Signs%20Around%20Venue/Call%20to%20Action) flyers here in the middle.
 - We have printed out copies of the letters we would like to write to our senators, so people just need to sign and date.
-- This is important for international communities! Pick the most impact 1-2 people to write to per event.
+- This is important for international communities! Pick the most impactful 1-2 people to write to per event.
 
 ### Lennon Wall
 - This is created by volunteers on form boards and card stock paper so we can reuse for other art projects
 - We created strings of cranes to decorate the space here and there as well
-- Put up the [Photo Spot](/Signs Around Venue/Call to Action/en-US/Call to action- photo spot.pdf) signs with the trending hashtags to help visibility of the whole movement
+- Put up the [Photo Spot](/Signs%20Around%20Venue/Call%20to%20Action/en-US/Call%20to%20action-%20photo%20spot.pdf) signs with the trending hashtags to help visibility of the whole movement
 
 ### Food
-- Solely because the volunteers also wanted fish balls....
+- Solely because the volunteers also wanted fish balls.... yum.
 - Please make sure you adhere to local food-serving guidelines to avoid being in trouble!
