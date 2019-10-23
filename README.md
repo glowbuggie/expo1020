@@ -98,7 +98,7 @@ The cost breakdown (so teams have an idea) will be coming soon.
 ### Writing Table
 - We put most of our [call to action](/Signs%20Around%20Venue/Call%20to%20Action) flyers here in the middle.
 - We have printed out copies of the letters we would like to write to our senators, so people just need to sign and date.
-- This is important for international communities! Pick the most impact 1-2 people to write to per event.
+- This is important for international communities! Pick the most impactful 1-2 people to write to per event.
 
 ### Lennon Wall
 - This is created by volunteers on form boards and card stock paper so we can reuse for other art projects
@@ -106,5 +106,5 @@ The cost breakdown (so teams have an idea) will be coming soon.
 - Put up the [Photo Spot](/Signs%20Around%20Venue/Call%20to%20Action/en-US/Call%20to%20action-%20photo%20spot.pdf) signs with the trending hashtags to help visibility of the whole movement
 
 ### Food
-- Solely because the volunteers also wanted fish balls....
+- Solely because the volunteers also wanted fish balls.... yum.
 - Please make sure you adhere to local food-serving guidelines to avoid being in trouble!
