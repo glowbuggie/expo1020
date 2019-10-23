@@ -82,7 +82,7 @@ The cost breakdown (so teams have an idea) will be coming soon.
 - Warning signs for VR or uncomfortable triggers are included.
 
 ### Background Movie
-- [Folder](/Background%20Videos) (NOTE: No videos have been uploaded currently)
+- [Folder](/Background%20Videos)
 - If you have a projector and some wall space this provides good ambience and a space for people to rest.
 - Videos in the folder, youtube link [here](https://www.youtube.com/watch?v=1U-vwe3AB50)
 
