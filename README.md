@@ -65,7 +65,7 @@ The cost breakdown (so teams have an idea) will be coming soon.
 - Some PDF files will have black guides to help cut and align the pages.
 
 ### Timeline
-- [Folder](/Timeline)
+- [Folder](/2.%20Timeline)
 - All the PDF files align to become a giant mural.
 - This will require frequent updating. Would really appreciate it if you send in a pull request with any updates!
 
