@@ -60,7 +60,7 @@ The cost breakdown (so teams have an idea) will be coming soon.
 ## Description of Each Area
 
 ### Information booths
-- [Folder](/1.\ Information\ Booths)
+- [Folder](/1.%20Information%20Booths)
 - Most of our booths are printed on 11x17 cardstock and arranged onto 20x30 foam boards, to be stuck on wall or propped up.
 - Some PDF files will have black guides to help cut and align the pages.
 
