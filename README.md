@@ -1,4 +1,4 @@
-![Expo Program Guide Cover](/4.%20Information%20and%20Signs%20for%20Venue/en_US/2.%20Program%20Guide/program_guide_front.jpg)
+![Expo Program Guide Cover](/4.%20Information%20and%20Signs%20for%20Venue/en_US/2.%20Program%20Guide/program_guide_front_single.jpg)
 
 # Materials for Hong Kong Expo
 ### 五大訴求，缺一不可。兄弟爬山，各自努力，遍地開花。
@@ -23,7 +23,7 @@ Otherwise, we appreciate it if you use git so we can see who is forking it and u
 
 ## Expo components
 
-![Expo Program Guide Cover](/4.%20Information%20and%20Signs%20for%20Venue/en_US/2.%20Program%20Guide/program_guide_inside.jpg)
+![Expo Program Guide Cover](/4.%20Information%20and%20Signs%20for%20Venue/en_US/2.%20Program%20Guide/program_guide_inside_single.jpg)
 
 Our expo consists the following. Each will have its own folder for source materials and information. Feel free to use any part of it for your event, as we know the event space and format might be different!
 [Our goal of the 1020 expo](#original-intention-of-the-expo) is to gather signatures, letters and postcards for US senators, in order to help push the HKHRDAct. We invite you to have a similar goal for your local event for a greater impact!
