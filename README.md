@@ -70,19 +70,19 @@ The cost breakdown (so teams have an idea) will be coming soon.
 - This will require frequent updating. Would really appreciate it if you send in a pull request with any updates!
 
 ### Protest Artworks
-- [Folder](/Artworks)
+- [Folder](/3.%20Artworks)
 - Including a few with explanation like human chain, tear gas, etc
 - They can be rearranged into any murals that work better for you.
 - We stick them on butcher paper as a backing so it's easier to set up and reuse.
 
 ### Information
-- [Folder](/Signs%20Around%20Venue)
+- [Folder](/4.%20Information%20and%20Signs%20for%20Venue)
 - Some of these are for people to browse in areas without booths but with extra space. Like info on LiPig, Pepe, or Lennon Wall.
 - There are a lot of random signage needed for a venue, like where bathrooms are!
 - Warning signs for VR or uncomfortable triggers are included.
 
 ### Background Movie
-- [Folder](/Background%20Videos)
+- [Folder](/5.%20Background%20Videos)
 - If you have a projector and some wall space this provides good ambience and a space for people to rest.
 - Videos in the folder, youtube link [here](https://www.youtube.com/watch?v=1U-vwe3AB50)
 
