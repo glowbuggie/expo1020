@@ -1,4 +1,4 @@
-![Expo Program Guide Cover](/Titles/program_guide_front.jpg)
+![Expo Program Guide Cover](/4.%20Information%20and%20Signs%20for%20Venue/en_US/2.%20Program%20Guide/program_guide_front_single.jpg)
 
 # Materials for Hong Kong Expo
 ### 五大訴求，缺一不可。兄弟爬山，各自努力，遍地開花。
@@ -23,7 +23,7 @@ Otherwise, we appreciate it if you use git so we can see who is forking it and u
 
 ## Expo components
 
-![Expo Program Guide Cover](/Titles/program_guide_inside.jpg)
+![Expo Program Guide Cover](/4.%20Information%20and%20Signs%20for%20Venue/en_US/2.%20Program%20Guide/program_guide_inside_single.jpg)
 
 Our expo consists the following. Each will have its own folder for source materials and information. Feel free to use any part of it for your event, as we know the event space and format might be different!
 [Our goal of the 1020 expo](#original-intention-of-the-expo) is to gather signatures, letters and postcards for US senators, in order to help push the HKHRDAct. We invite you to have a similar goal for your local event for a greater impact!
@@ -60,29 +60,29 @@ The cost breakdown (so teams have an idea) will be coming soon.
 ## Description of Each Area
 
 ### Information booths
-- [Folder](/Booths)
+- [Folder](/1.%20Information%20Booths)
 - Most of our booths are printed on 11x17 cardstock and arranged onto 20x30 foam boards, to be stuck on wall or propped up.
 - Some PDF files will have black guides to help cut and align the pages.
 
 ### Timeline
-- [Folder](/Timeline)
+- [Folder](/2.%20Timeline)
 - All the PDF files align to become a giant mural.
 - This will require frequent updating. Would really appreciate it if you send in a pull request with any updates!
 
 ### Protest Artworks
-- [Folder](/Artworks)
+- [Folder](/3.%20Artworks)
 - Including a few with explanation like human chain, tear gas, etc
 - They can be rearranged into any murals that work better for you.
 - We stick them on butcher paper as a backing so it's easier to set up and reuse.
 
 ### Information
-- [Folder](/Signs%20Around%20Venue)
+- [Folder](/4.%20Information%20and%20Signs%20for%20Venue)
 - Some of these are for people to browse in areas without booths but with extra space. Like info on LiPig, Pepe, or Lennon Wall.
 - There are a lot of random signage needed for a venue, like where bathrooms are!
 - Warning signs for VR or uncomfortable triggers are included.
 
 ### Background Movie
-- [Folder](/Background%20Videos)
+- [Folder](/5.%20Background%20Videos)
 - If you have a projector and some wall space this provides good ambience and a space for people to rest.
 - Videos in the folder, youtube link [here](https://www.youtube.com/watch?v=1U-vwe3AB50)
 
