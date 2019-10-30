@@ -55,7 +55,7 @@ Currently only US English. Please help expand this!
 
 There are costs to hosting an expo of this size. However, if you want to make any exhibition of any size, and take from our materials, go for it..!!
 
-The cost breakdown (so teams have an idea) will be coming soon.
+Our cost break down and hours spent is in [this folder](/7.%20Expenses). The currency is in USD, with San Francisco standard of living, so the amount you need may vary depending on your area.
 
 ## Description of Each Area
 
